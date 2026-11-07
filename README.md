@@ -2,6 +2,22 @@
 
 Expense Tracker is a personal finance app for recording daily income and expenses. Totals and the current balance update as soon as a transaction is saved, edited, or deleted. Records stay on the device in a local SQLite database, so they are still there after the app is closed and opened again.
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="Assets/1.png" width="150" />
+  <img src="Assets/2.png" width="150" />
+  <img src="Assets/3.png" width="150" />
+  <img src="Assets/4.png" width="150" />
+</p>
+
+<p align="center">
+  <img src="Assets/5.png" width="150" />
+  <img src="Assets/6.png" width="150" />
+  <img src="Assets/7.png" width="150" />
+</p>
+
+
 ## Features
 
 - Dashboard titled **Expense Tracker**
