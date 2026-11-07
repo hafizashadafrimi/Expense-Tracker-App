@@ -108,3 +108,13 @@ flutter analyze
 ## Categories
 
 Food, Transport, Shopping, Bills, Salary, Freelance, Health, Entertainment, Education, and Other.
+
+## 👩‍💻 Author
+
+**Hafiza Shadaf Rimi**  
+Flutter Developer
+
+🎓 Daffodil International University  
+💻 Specializing in Flutter & Android App Development
+
+
